@@ -12,3 +12,12 @@ git pull origin main --rebase
 git remote -v
 
 git push -u origin main
+
+# git checkout -b <new-branch-name>
+
+git checkout <new-branch-name>
+
+git push -u origin <new-branch-name>
+
+
+
