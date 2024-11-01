@@ -15,13 +15,15 @@ git push -u origin main
 
 # git checkout -b <new-branch-name>
 
-git checkout new-branch-name
+1. git checkout -b <new-branch-name>
 
-git push -u origin new-branch-name
+2. git checkout new-branch-name
 
-git branch --delete new-branch-name <git delete local branch> 
+3. git push -u origin new-branch-name
 
-git push origin -d remote-branch-name <git delete remote branch>
+4. git branch --delete new-branch-name <git delete local branch> 
+
+5. git push origin -d remote-branch-name <git delete remote branch>
 
 # git remove remote commit
 
