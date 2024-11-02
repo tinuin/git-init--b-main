@@ -1,9 +1,9 @@
 # git init -b main
 git init -b main
 
-git remote add origin
-
 git branch -M main
+
+git remote add origin
 
 git remote -v
 
