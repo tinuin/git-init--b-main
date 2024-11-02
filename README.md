@@ -3,6 +3,8 @@ git init -b main
 
 git remote add origin
 
+git branch -M main
+
 git remote -v
 
 git fetch origin main
