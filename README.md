@@ -38,4 +38,6 @@ git push -u origin main
 1. git reset --soft HEAD^ or git reset <filename>
 2. git checkout <filename>
 
+# git commit --allow-empty -m ""
+
 
